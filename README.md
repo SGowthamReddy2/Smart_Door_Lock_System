@@ -1,3 +1,4 @@
+SMART DOOR LOCK 
 
 The Smart Door Lock project is an advanced home security solution that combines Arduino Uno and a keypad to create a keyless entry system with enhanced security features. Unlike traditional locks, which are vulnerable to issues like key duplication and lock picking, the Smart Door Lock offers a high level of security by using a keyless entry system based on a user-defined code.
 
